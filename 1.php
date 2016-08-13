@@ -3,5 +3,9 @@
 	echo 2;
 	echo 3;
 	echo 5;
+<<<<<<< HEAD
 	echo 4；
 	echo 6;
+=======
+	echo '分之';
+>>>>>>> gaotr
