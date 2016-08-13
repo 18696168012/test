@@ -1,0 +1,12 @@
+diff a/1.php b/1.php	(rejected hunks)
+@@ -2,4 +2,8 @@
+ 	echo 1;
+ 	echo 2;
+ 	echo 3;
+-	echo 5;
+\ No newline at end of file
++<<<<<<< HEAD
++	echo 5;
++=======
++	echo 4；
++>>>>>>> ecf30fe5e463d33d37a93ce5f14a554019cd4f26
