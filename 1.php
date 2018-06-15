@@ -6,4 +6,5 @@
 	echo 4;
 	echo 6;
 	echo '分之';
+	echo 2;
 
